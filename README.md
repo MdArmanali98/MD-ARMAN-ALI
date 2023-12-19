@@ -1,8 +1,8 @@
+![logo](https://github.com/MdArmanali98/MD-ARMAN-ALI/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm MD ARMAN ALI</h1>
 <h3 align="center">I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and Web Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/MdArmanali98/MD-ARMAN-ALI/assets/97430122/62d38fce-289a-430c-aa75-b60aaa43ff9e)
-">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/MdArmanali98/MD-ARMAN-ALI/assets/97430122/a278d899-4dba-4fc4-9345-f4506285af5e)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarmanalia98&label=Profile%20views&color=0e75b6&style=flat" alt="mdarmanalia98" /> </p>
 
